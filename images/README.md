@@ -1,6 +1,6 @@
 ## Simulation
 
-![Simulation](images/simulation.png)
+![Simulation](images/simulation)
 
 ## Throughput
 
