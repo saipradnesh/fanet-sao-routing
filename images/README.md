@@ -2,18 +2,14 @@
 
 ![Simulation](images/simulation.png)
 
-## Throughput
+## Throughput, Energy, Delay and Fairness
 
-![Throughput](images/throughput.png)
+![Throughput](images/througput, energy, delay and fairness.png)
 
-## Energy
+## Load Variance
 
-![Energy](images/energy.png)
+![Energy](images/load variance.png)
 
-## Delay
+## Load Distribution Comparison
 
-![Delay](images/delay.png)
-
-## Fairness
-
-![Fairness](images/fairness.png)
+![Delay](images/load distribution comparison.png)
