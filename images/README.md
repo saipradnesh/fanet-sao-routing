@@ -4,12 +4,12 @@
 
 ## Throughput, Energy, Delay and Fairness
 
-![Throughput](images/througput, energy, delay and fairness.png)
+![Throughput](images/througput,energy,delayandfairness.png)
 
 ## Load Variance
 
-![Energy](images/load variance.png)
+![Energy](images/loadvariance.png)
 
 ## Load Distribution Comparison
 
-![Delay](images/load distribution comparison.png)
+![Delay](images/loaddistributioncomparison.png)
